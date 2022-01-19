@@ -14,4 +14,5 @@
 ![F1 score model comparison](https://user-images.githubusercontent.com/84294406/150214476-1cdbbbd7-59fc-45be-9f34-9839496a6aaf.png)
 
 - Precision score model comparison
+
 ![Precision score model comparison](https://user-images.githubusercontent.com/84294406/150214491-368b053b-b318-4608-af2a-cee16644f4a7.png)
