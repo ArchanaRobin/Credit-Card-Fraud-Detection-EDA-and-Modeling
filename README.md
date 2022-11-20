@@ -6,7 +6,7 @@ Many controls have been implemented to address this issue. However, most solutio
 
 We decided to address this complex problem by implementing machine learning models to identify fraudulent transactions based on users’ behavior.
 
-## List of items:
+
 ## Introduction to Credit Card Fraud Detection
 
  - Model Exploration and Preprocessing
