@@ -41,6 +41,7 @@ There are 8213 fraud transactions reported.
 There are 4116 Fraud transaction in CASH_OUT and 4097 in TRANSFER
  ### Model Exploration and Preprocessing
  
+
   #### Performed procedures:
     - Data Wrangling and Exploration
     - Reading, understanding, cleaning, and visualising the data
@@ -49,9 +50,16 @@ There are 4116 Fraud transaction in CASH_OUT and 4097 in TRANSFER
     
  #### Exploratory Data Analysis and Modeling
  
+  ![image](https://user-images.githubusercontent.com/84294406/202936134-01ba7c32-c57c-45a0-8b88-426beeceefa2.png)
+ 
+ ![image](https://user-images.githubusercontent.com/84294406/202936183-234f6d0f-9447-481b-93b4-ca7d8ccf1e0f.png)
+
   - #### Best features:
    
  ![Best feature to predict](https://user-images.githubusercontent.com/84294406/150213507-2f897bf5-1010-41d6-8e5e-25b48f439da6.jpeg)
+ 
+ ![image](https://user-images.githubusercontent.com/84294406/202936234-ce441205-33c0-47c4-b205-2a3fd80c8205.png)
+
  - Best F score:
  
 ![Feature F Score](https://user-images.githubusercontent.com/84294406/150213529-54fe857e-3619-49fc-b79f-2da9b2ce7c7b.jpeg)
@@ -60,13 +68,4 @@ There are 4116 Fraud transaction in CASH_OUT and 4097 in TRANSFER
   
 ![img9](https://user-images.githubusercontent.com/84294406/150213562-201c336d-45ea-4e15-a8cc-71ae29b92527.png)
 
- - F1 score model comparison
 
-![F1 score model comparison](https://user-images.githubusercontent.com/84294406/150214476-1cdbbbd7-59fc-45be-9f34-9839496a6aaf.png)
-
-- Precision score model comparison
-
-![Precision score model comparison](https://user-images.githubusercontent.com/84294406/150214491-368b053b-b318-4608-af2a-cee16644f4a7.png)
-
-
-[Credit Card Fraud presentation.pdf](https://github.com/ArchanaRobin/Credit-Card-Fraud-Detection-EDA-and-Modeling/files/10051145/Credit.Card.Fraud.presentation.pdf)
