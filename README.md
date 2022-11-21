@@ -65,3 +65,6 @@ There are 4116 Fraud transaction in CASH_OUT and 4097 in TRANSFER
 - Precision score model comparison
 
 ![Precision score model comparison](https://user-images.githubusercontent.com/84294406/150214491-368b053b-b318-4608-af2a-cee16644f4a7.png)
+
+
+[Credit Card Fraud presentation.pdf](https://github.com/ArchanaRobin/Credit-Card-Fraud-Detection-EDA-and-Modeling/files/10051145/Credit.Card.Fraud.presentation.pdf)
