@@ -26,6 +26,8 @@ We decided to address this complex problem by implementing machine learning mode
 
 We present a synthetic dataset generated using the simulator called PaySim as an approach to such a problem. The dataset is highly imbalanced. Here We applied Various algorithms. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
 
+![image](https://user-images.githubusercontent.com/84294406/202936081-52b3eb2c-28b6-4c12-9af9-825b62ef0815.png)
+
 Model Exploration and Preprocessing
 Performed procedures:
 Data Wrangling and Exploration
